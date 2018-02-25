@@ -1,0 +1,74 @@
+<DATA>
+
+	<ROW>
+		<id>appa9b3596b97728856069cdecf0d6f7b2c</id>
+		<project_id>59</project_id>
+		<path>/scripts</path>
+		<name>slideshow.js</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appab209aa7e9b8f4cd688dcc0bb1c96986</id>
+		<project_id>59</project_id>
+		<path>/</path>
+		<name>settings.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appc106462d3d6723bc5ce2301dd0f0bd2a</id>
+		<project_id>59</project_id>
+		<path>/</path>
+		<name>views.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appcd61b7615d6a700d3daa2bfb3c0abe21</id>
+		<project_id>59</project_id>
+		<path>/</path>
+		<name>source.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appe3a188fe38c55136ca3c1db80e824270</id>
+		<project_id>59</project_id>
+		<path>/views/</path>
+		<name>slideShow.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appe3bc7cd837089a68e14e7f7dbf28da40</id>
+		<project_id>59</project_id>
+		<path>/</path>
+		<name>index.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appebc662622008dec5fe694ed6926974e9</id>
+		<project_id>59</project_id>
+		<path>/views/</path>
+		<name>MainView.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>wstpl272d1b2da9f6ea0749eb6fb0016ef52c</id>
+		<project_id>59</project_id>
+		<path>/</path>
+		<name>index.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+</DATA>
