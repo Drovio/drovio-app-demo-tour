@@ -1,0 +1,67 @@
+.demoSlideShowContainer,
+.slideShow {
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+	position: relative;
+}
+.slideShow .controls {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border-top: 1px solid #CCC;
+	background: #EEE;
+	overflow: auto;
+}
+.slideShow .controls .play {
+	float: right;
+}
+.slideShow .controls .button {
+	float: left;
+	padding: 5px 10px;
+	background: #CCC;
+	overflow: auto;
+	border: 1px solid #999;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	cursor: pointer;
+	color: #555;
+}
+.slideShow .controls .play .button.previous {
+	margin-right: 10px;
+}
+.slideShow .controls .button.positive {
+	background: #BBE2B1;
+	border: 1px solid #43B549;
+}
+.slideShow .controls .button .ico {
+	float: left;
+	width: 16px;
+	height: 16px;
+	background: url('%{media}/controls/play.svg') no-repeat center;
+	background-size: contain;
+	margin-right: 10px;
+	opacity: 0.6;
+}
+.slideShow .controls .button.previous .ico {
+	transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+}
+.slideShow .controls .button.startover .ico {
+	background: url('%{media}/controls/restart.svg') no-repeat center;
+	background-size: contain;
+}
+.slideShow .controls .button:hover .ico {
+	opacity: 0.9;
+}
+.slideShow .controls .button .title {
+	float: left;
+	line-height: 16px;
+}
